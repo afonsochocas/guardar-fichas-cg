@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1790265707 source:c:\users\rafam\desktop\cgrafica\exercicio1\main.c
+	<GL/glut.h>
+
+1791915201 source:c:\users\23047\downloads\t1-g14-main\t1-g14-main\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	"figuras.h"
+
+1791914812 source:c:\users\23047\downloads\t1-g14-main\t1-g14-main\figuras.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"figuras.h"
+
+1791915420 c:\users\23047\downloads\t1-g14-main\t1-g14-main\figuras.h
+
